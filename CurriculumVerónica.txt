@@ -1,0 +1,123 @@
+<html>
+    <head>
+        <title>CURRICULUM VITAE</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="tabla.css">
+    </head>
+    <body>
+        <div id="main-container">
+    <table>
+        <thread>
+            <th><img src="FOTO_CURRICULUM_VITAE.png" width="250" height="250"></th><th><font face="calibri"><h1>Verónica Barragán Zepeda<p><h3>Estudiante</h3></p></h1></font></th></thread>
+        </table>
+        <h2>
+    <b>DATOS PERSONALES
+    </b>
+    </h2>
+    <h4>
+    <p><b><i>Nombre y apellidos: </i></b>Verónica Barragán Zepeda</p>
+    <p><b><i>Fecha y lugar de nacimiento: </i></b>18 de noviembre del 2002, Sahuayo Michoacán</p>
+    <p><b><i>Dirección:</i> </b>Guadalupe Victoria #927 Colinas del Tepeyac</p>
+    <p><b><i>Teléfono: </i></b>3539631801</p>
+    <p><b><i>Email:</i> </b>barraganzepeda18@gmail.com</p>
+    </h4>
+    <br>
+    <h2>
+    <b>FORMACIÓN ACADÉMICA
+    </b>
+    </h2>
+    <h4>
+    <p><i>2014-2017:</i> Escuela Secundaria Técnica 55, especialidad informática</p>
+    <p><i>2017-2020:</i> CETis 121, Técnico programador</p>
+    <p><i>2020-Actualidad: </i>Instituto Tecnológico de Jiquilpan, Ingeniería en Sistemas Computacionales</p>
+    </h4>
+    <br>
+    <h2>
+    <strong>OTROS CURSOS Y SEMINARIOS
+    </strong>
+    </h2>
+    <h4>
+    <p><i>2022:</i>  Verano en una empresa, INEA Sahuayo</p>
+    <p><i>2020:</i> CEDECOS, profesora y asesora de estudiantes </p>
+    <p><i>2020: </i>Desarrollo web en el albergue de animales de Sahuayo Michoacán </p>
+    </h4>
+    <br>
+    <h2>
+    <strong>EXPERIENCIA PROFESIONAL
+    </strong>
+    </h2>
+    <h4>
+    <p><i>2022:</i>  Verano en una empresa, INEA Sahuayo</p>
+    <p><i>2020: </i> CEDECOS, profesora y asesora de estudiantes </p>
+    </h4>
+    <br>
+    <h2>
+    <strong>IDIOMAS
+    </strong>
+    </h2>
+    <h4>
+    <p><i>Inglés:</i> Nivel intermedio-alto</strong></p>
+    </h4>
+    <br>
+    <h2>
+    <strong>INFORMÁTICA
+    </strong>
+    </h2>
+    <table border=0>
+        <thread>
+            <th><h4><i>Conocimientos nivel usuario:</i></h4></th>
+            <th><h4><i>Conocimientos nivel técnico:</i></h4></th>
+        </thread>
+    
+    <tr><td><p>•	Paquete de office</p> </td>
+        <td>•	Java</td>
+    </tr>
+    <tr>
+    <td><p>•	Redes sociales</p> </td>
+    
+    <td>•	Html</td>
+    </tr>
+    <tr>
+    <td><p>•	Conexiones a internet</p> </td>
+    <td>•	Técnico en mantenimiento de computadoras</td>
+    </tr>
+    <td><p>•	Instalación de sistemas operativos</p> </td>
+    <td><p>•	Configuración de sistemas operativos</p> </td>
+    </tr>
+    <tr>
+    
+    
+    </tr>
+    </h4>
+    </table>
+    <br>
+    <h2>
+    <strong>OTROS DATOS DE INTERÉS
+    </strong>
+    </h2>
+    <h4>
+    <p>•	Disponibilidad de horario</p>
+    <p>•	Buena trabajadora en equipo</p>
+    <p>•	Buena trabajadora bajo presión</p>
+    </p>
+    </h4>
+    <br>
+    <h2>
+    <strong>REFERENCIAS
+    </strong>
+    </h2>
+    <h4>
+    <p>Puedo presentar las pertinentes, si se me son solicitadas</p>
+    </h4>
+    <center>
+    <h2>REDES SOCIALES</h2>
+    
+    <table>
+        <thread>
+            <tr><img src="fb.jpg" width="80" height="80"></tr><td><h4><i>Facebook: </i> Barraganz Verónica</h4></td></tr>
+            <tr><img src="insta.png" width="80" height="80"><td><h4><i>Instagram: </i> vero_barragan.18</h4></td></tr>
+            <tr><img src="whats.jpg" width="80" height="80"><td><h4><i>WhatsApp: </i> 3539631801</h4></td></tr>
+    
+        </table>
+        </body>
+    </html>
